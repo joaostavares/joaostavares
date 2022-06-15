@@ -21,3 +21,5 @@
   <a href = "https://api.whatsapp.com/send/?phone=5535992779864&text&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href = "https://t.me/JoaoTavares9"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </div>
+
+![Snake animation](https://github.com/joaostavares/joaostavares/blob/output/github-contribution-grid-snake.svg)
