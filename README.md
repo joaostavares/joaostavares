@@ -1,8 +1,8 @@
 
 <div>
 <p align="center">  
-  <img height="160em" src= "https://github-readme-stats.vercel.app/api?username=joaostavares&count_private=true&show_icons=true&theme=algolia"/>
-  <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaostavares&layout=compact&show_icons&theme=algolia"/>
+  <img height="160em" src= "https://github-readme-stats.vercel.app/api?username=joaostavares&count_private=true&show_icons=true&theme=gotham"/>
+  <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaostavares&layout=compact&show_icons&theme=gotham"/>
 </p>
 <p align = "center">
   
