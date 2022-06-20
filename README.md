@@ -5,7 +5,7 @@
   <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaostavares&layout=compact&show_icons&theme=algolia"/>
 </p>
 <p align = "center">
-  <img src= "https://komarev.com/ghpvc/?username=joaostavares&style=flat&color=blue"/>
+  
 </p>
 <p align="center">  <br>
   <img align="center" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
@@ -24,6 +24,7 @@
   <a href = "https://forum.xda-developers.com/m/jst98.6183942/"> <img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" />
   <a href = "https://api.whatsapp.com/send/?phone=5535992779864&text&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href = "https://t.me/JoaoTavares9"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src= "https://komarev.com/ghpvc/?username=joaostavares&style=for-the-badge&color=blue"/>
 </p>
 </div>
 <p allign="center">    
