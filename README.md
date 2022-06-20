@@ -1,10 +1,12 @@
 
 <div>
 <p align="center">  
-  <img height="160em" src= "https://github-readme-stats.vercel.app/api?username=joaostavares&count_private=true&show_icons=true&theme=dark"/>
-  <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaostavares&layout=compact&show_icons&theme=dark"/>
+  <img height="160em" src= "https://github-readme-stats.vercel.app/api?username=joaostavares&count_private=true&show_icons=true&theme=algolia"/>
+  <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaostavares&layout=compact&show_icons&theme=algolia"/>
 </p>
- 
+<p align = "center">
+  <img src= "https://komarev.com/ghpvc/?username=joaostavares&style=flat&color=blue"/>
+</p>
 <p align="center">  <br>
   <img align="center" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   <img align="center" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
