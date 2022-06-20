@@ -24,5 +24,8 @@
   <a href = "https://t.me/JoaoTavares9"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 </div>
+<p allign="center">    
     
 ![Snake animation](https://github.com/joaostavares/joaostavares/blob/output/github-contribution-grid-snake.svg)
+
+</p>
