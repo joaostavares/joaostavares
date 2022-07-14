@@ -19,8 +19,8 @@
   <a href = "https://t.me/JoaoTavares9"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <img src= "https://komarev.com/ghpvc/?username=joaostavares&style=for-the-badge&color=268F77">
   </p>
-    
-![GitHub Snake Light](https://github.com/joaostavares/joaostavares/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/joaostavares/joaostavares/output/github-snake-dark.svg#gh-dark-mode-only)
-
+  
+  ![Dark Mode Grid Snake](https://raw.githubusercontent.com/joaostavares/joaostavares/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  ![White mode grid snake](https://raw.githubusercontent.com/joaostavares/joaostavares/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+  
 </div>
