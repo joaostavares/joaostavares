@@ -20,6 +20,7 @@
   <img src= "https://komarev.com/ghpvc/?username=joaostavares&style=for-the-badge&color=268F77">
   </p>
     
-![Snake animation](https://github.com/joaostavares/joaostavares/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 </div>
