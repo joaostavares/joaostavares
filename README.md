@@ -20,7 +20,7 @@
   <img src= "https://komarev.com/ghpvc/?username=joaostavares&style=for-the-badge&color=268F77">
   </p>
     
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/joaostavares/joaostavares/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/joaostavares/joaostavares/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 </div>
