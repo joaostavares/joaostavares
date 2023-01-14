@@ -15,10 +15,10 @@
 </div>
 
 ### About Me
-- I'm Backend Developer and Software Engineer Student at Inatel
-- I am currently a Consulting Intern at Sensedia
-- I'm currently learning TDD and Clean Code
-- Fun Fact: I was a very nosy kid who was always causes BSOD on Windows by wanting to dig how everything runs behind the interface, and that's how my controversial love of backend programming began.
+- 😀 I'm Backend Developer and Software Engineer Student at Inatel
+- 👨🏻‍💻 I am currently a Consulting Intern at Sensedia
+- 📘 I'm currently learning TDD and Clean Code
+- 😂 Fun Fact: I was a very nosy kid who was always causes BSOD on Windows by wanting to dig how everything runs behind the interface, and that's how my controversial love of backend programming began.
 
   
 ##
