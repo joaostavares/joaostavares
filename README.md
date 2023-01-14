@@ -15,16 +15,13 @@
 </div>
 
 ### About Me
-- 😀 I'm Backend Developer and Software Engineer Student at Inatel
-- 👨🏻‍💻 I am currently a Consulting Intern at Sensedia
+- 👨🏻‍💻 I am a Consulting Intern at Sensedia
 - 📘 I'm currently learning TDD and Clean Code
-- 😂 Fun Fact: I was a very nosy kid who was always causes BSOD on Windows by wanting to dig how everything runs behind the interface, and that's how my controversial love of backend programming began.
+- 😂 Trivia about me: I was a very nosy kid who was always causes BSOD on Windows by wanting to dig how everything runs behind the interface, and that's how my controversial love of backend programming began.
 
   
 ##
 
-
-### Some of My Github Stats
 
 <br> <div align="center">
   <p align="center">
