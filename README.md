@@ -2,10 +2,12 @@
  
     
 <div>
+ <br>
   <p align="center">
         <img height="160em" src= "https://github-readme-stats.zohan.tech/api?username=joaostavares&count_private=true&show_icons=true&theme=aura"/>
         <img height="160em" src= "https://github-readme-stats.zohan.tech/api/top-langs/?username=joaostavares&count_private=true&layout=compact&show_icons&theme=aura"/>
   </p>
+ <br>
   <p align="center">
    <a href="https://joaostavares.dev" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-red?style=for-the-badge&logo=next.js&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/joaotavaress" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
