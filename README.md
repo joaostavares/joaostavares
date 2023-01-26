@@ -4,7 +4,7 @@
 <div>
  <br>
   <p align="center">
-        <img height="160em" src= "https://github-readme-stats.zohan.tech/api?username=joaostavares&count_private=true&show_icons=true&theme=aura"/>
+        <img height="160em" src= "https://github-readme-stats.zohan.tech/api?username=joaostavares&count_private=true&show_icons=true&theme=aura&hide=stars"/>
         <img height="160em" src= "https://github-readme-stats.zohan.tech/api/top-langs/?username=joaostavares&count_private=true&layout=compact&show_icons&theme=aura"/>
   </p>
  <br>
