@@ -22,9 +22,6 @@
   <br>
   <div align="center">
   
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=serafini98&count=1)
-        
-       
    ![Dark Mode Grid Snake](https://raw.githubusercontent.com/joaostavares/joaostavares/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
    ![White mode grid snake](https://raw.githubusercontent.com/joaostavares/joaostavares/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
   
