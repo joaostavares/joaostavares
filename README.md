@@ -1,7 +1,4 @@
-![banner](https://user-images.githubusercontent.com/65142565/212914088-3425618f-85dc-4f67-8e2a-68b45b178978.png)
- 
-    
-<div>
+ <div>
  <br>
   <p align="center">
         <img height="160em" src= "https://github-readme-stats.zohan.tech/api?username=joaostavares&count_private=true&show_icons=true&theme=aura"/>
